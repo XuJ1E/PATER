@@ -40,5 +40,10 @@ the other codes and checkpoints will come soon!
 
 ## Acknowledgement
 Thanks for the code of the following:\
-[ConvNext](https://github.com/facebookresearch/ConvNeXt.) and 
+[ConvNext](https://github.com/facebookresearch/ConvNeXt.)
+
+
 [WZMIAOMIAO](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
+
+
+[POSTER_V2](https://github.com/Talented-Q/POSTER_V2)
